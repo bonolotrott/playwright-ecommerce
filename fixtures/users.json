@@ -1,0 +1,16 @@
+{
+  "standardUser": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "checkoutInfo": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "postalCode": "12345"
+  },
+  "products": {
+    "backpack": "Sauce Labs Backpack",
+    "bikeLight": "Sauce Labs Bike Light",
+    "boltTshirt": "Sauce Labs Bolt T-Shirt"
+  }
+}
